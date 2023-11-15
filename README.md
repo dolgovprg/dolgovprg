@@ -7,7 +7,7 @@ I'm from Ukraine
 
 <div align="left">
   <a href="https://github.com/dolgovprg">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolgovprg&layout=compact&langs_count=7&theme=gruvbox" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolgovprg&layout=compact&theme=gruvbox" />
 </div>
 
 <div style="display: inline_block"><br>
