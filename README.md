@@ -7,15 +7,15 @@ I'm from Ukraine
 
 <div align="left">
   <a href="https://github.com/dolgovprg">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolgovprg&layout=compact&langs_count=7&theme=gruvbox" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergdolgov&layout=compact&langs_count=10&theme=gruvbox" />
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
