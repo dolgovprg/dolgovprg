@@ -2,7 +2,7 @@
 I'm from Ukraine
 
 - 🔭 I’m a software engineer
-- 📚 I'm currently learning GDX
+- 📚 I'm currently learning LibGDX
 - ⚡ In my free time I work on personal projects, Arduino and computer games 
 
 <div align="left">
