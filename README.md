@@ -2,8 +2,8 @@
 I'm from Ukraine
 
 - 🔭 I’m a software engineer
-- 📚 I'm currently learning LibGDX
-- ⚡ In my free time I work on personal projects, Arduino and computer games 
+- 📚 I'm currently learning English
+- ⚡ In my free time I work on personal projects
 
 <div align="left">
   <a href="https://github.com/dolgovprg">
